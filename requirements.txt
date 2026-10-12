@@ -1,0 +1,7 @@
+aiogram>=3.13,<4
+aiohttp>=3.9
+openpyxl>=3.1
+beautifulsoup4>=4.12
+python-dotenv>=1.0
+tzdata
+xlrd>=2.0.1
